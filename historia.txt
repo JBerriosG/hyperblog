@@ -3,4 +3,6 @@ Tiene 30 años y es De Santiago de Chile.
 
 Master 1
 
+Master 2
+
 Aprendimos a volver en el pasado en los commits.
